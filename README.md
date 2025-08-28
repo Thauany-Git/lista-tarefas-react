@@ -8,7 +8,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 - Tarefas aparecem com cor **verde** se estiverem concluídas e **vermelha** se estiverem pendentes.
 - Validação para não permitir salvar tarefas sem título ou descrição.
 
----
+
 
 ## 🚀 Tecnologias utilizadas
 
@@ -16,7 +16,6 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 - JavaScript 
 - CSS (customizado)
 
----
 
 
 ## 🖼️ Demonstração
@@ -24,7 +23,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 👉 Quando a tarefa for **Concluída**, a linha fica verde.  
 👉 Quando a tarefa estiver **Pendente**, a linha fica vermelha.  
 
----
+
 
 
 ## ⚙️ Como executar o projeto
@@ -35,7 +34,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd lista-de-tarefas-react
+   cd lista-tarefas-react
    
 3. Instale as dependências:
    ```bash
@@ -50,7 +49,6 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
    (http://localhost:3000)
 
 
----
 
 
 ## Melhorias Futuras
