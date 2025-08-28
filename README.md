@@ -12,7 +12,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 
 ## 🚀 Tecnologias utilizadas
 
-- [React]
+- React
 - JavaScript 
 - CSS (customizado)
 
@@ -47,8 +47,6 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 5. Abra no navegador:
    ```bash
    (http://localhost:3000)
-
-
 
 
 ## Melhorias Futuras
