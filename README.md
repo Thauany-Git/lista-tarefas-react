@@ -30,7 +30,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido em **React**, on
 
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/Thauany-Git/lista-tarefas-react.git)
+   git clone https://github.com/Thauany-Git/lista-tarefas-react.git
 
 2. Acesse a pasta do projeto:
    ```bash
